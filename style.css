@@ -1,24 +1,6 @@
-.header {
-    height: 500px;
-}
-
-.header .row {
-    padding: 40px 50px 40px 50px;
-}
-.header .row .col img{
-    width: 600px;
-}
-
 .main { 
-    padding-left: 50px;
-    padding-right: 50px;
     padding-top: 100px;
     padding-bottom: 100px;
-
-}
-
-.main .row img {
-    width: 400px;
 }
 
 .main-why-us {
@@ -37,36 +19,14 @@
 
 .main-sewa {
     padding-top: 100px;
+    padding-bottom: 100px;
 }
 
-.sewa {
-    height: 326px;
-    width: auto;
+.main-sewa > .card {
     background-color:#0D28A6;
-    text-align: center;
     color: white;
-    border-radius: 13px;
-    height: 326px;
-    padding-bottom: 60px;
-    padding-top: 60px;
-    padding-left: 250px;
-    padding-right: 250px;
 }
 
 .sewa h2 p {
     padding-bottom: 50px;
-}
-
-.sewa button {
-    padding: 10px 10px 10px 10px;
-}
-
-.main-faq {
-    padding-top: 100px;
-    padding-bottom: 150px;
-}
-
-.footer {
-    padding-left: 136px;
-    padding-right: 136px;
 }
